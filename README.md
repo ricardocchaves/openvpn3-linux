@@ -2,10 +2,10 @@
 This is 100% the original repo, but with some differences:
 - ARM binary in the releases page
 - Ready-to-run scripts to simplify building from source:
-	- *01\_deps.sh* - get dependencies
-	- *02\_gitSetup.sh* - setup git repo
-	- *03\_group.sh* - set user groups if needed
-	- *04\_build.sh* - build and install
+	- **01\_deps.sh** - get dependencies
+	- **02\_gitSetup.sh** - setup git repo
+	- **03\_group.sh** - set user groups if needed
+	- **04\_build.sh** - build and install
 
 OpenVPN 3 Linux client
 ======================
